@@ -1,0 +1,17 @@
+# GDP Milestone 7:  Setup A Playable Character
+
+<p><a class="inline_disabled" href="https://docs.google.com/presentation/d/1VO-WJKg9HGcHg0Rcf5E2hCmdfU_hMrrR049wjcK4kOw/edit?usp=sharing" target="_blank"><span style="font-size: 12pt;">Download slides here.</span></a></p>
+<p><span style="font-size: 14pt;"><strong>Objective</strong></span></p>
+<p>In this comprehensive Unreal Engine course, students will learn to craft a custom playable character by mastering Enhanced Input for intricate control systems, animation retargeting for efficient use of animations across models, and MetaHuman for creating lifelike human characters. The course also dives into Animation Blueprints and Animation Montages, equipping students with the skills to design complex animations and manage character behaviors dynamically in-game.</p>
+<p>Through a hands-on approach, participants will gain practical experience in integrating these advanced tools and techniques, enabling them to develop a fully realized playable character, ready for implementation in their own game projects. This course is ideal for aspiring game developers and animators looking to deepen their expertise in Unreal Engine's character creation capabilities.</p>
+<p><span style="font-size: 14pt;"><strong>Lessons</strong></span></p>
+<p><a class="ig-title title item_link" title="Enhanced Input" href="https://vertexschool.instructure.com/courses/462/modules/items/24228">Enhanced Input</a></p>
+<p><a title="Animation Retargeting" href="https://vertexschool.instructure.com/courses/462/pages/animation-retargeting" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/462/pages/animation-retargeting" data-api-returntype="Page"><span>Animation Retargeting</span></a></p>
+<p><a title="Playable Character with Metahuman" href="https://vertexschool.instructure.com/courses/462/pages/playable-character-with-metahuman" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/462/pages/playable-character-with-metahuman" data-api-returntype="Page"><span>Playable Character with Metahuman</span></a></p>
+<p><span><a class="ig-title title item_link" title="Combo System Logic" href="https://vertexschool.instructure.com/courses/462/modules/items/24231">Combo System Logic</a></span></p>
+<p><span><a class="ig-title title item_link" title="Using Montages and Implement Combo System" href="https://vertexschool.instructure.com/courses/462/modules/items/24232">Using Montages and Implement Combo System</a></span></p>
+<p><strong><span style="font-size: 14pt;">Assignment</span></strong></p>
+<p>Objective: Utilize Unreal Engine's Enhanced Input, Animation Retargeting, MetaHuman, Animation Blueprints, and Animation Montages to develop a custom playable character. This assignment aims to combine the technical and creative aspects taught in the course, resulting in a character ready for gameplay integration.</p>
+<ul>
+<li><a title="Assignment 7: Setup A Playable Character" href="https://vertexschool.instructure.com/courses/462/assignments/3200" data-course-type="assignments" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/462/assignments/3200" data-api-returntype="Assignment">Assignment</a></li>
+</ul>
