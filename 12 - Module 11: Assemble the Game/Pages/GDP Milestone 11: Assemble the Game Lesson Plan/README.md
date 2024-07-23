@@ -1,0 +1,28 @@
+# GDP Milestone 11: Assemble the Game Lesson Plan
+
+<p><a class="inline_disabled" href="https://docs.google.com/presentation/d/18H8FjjY361SyRpulP9LSzHaEVhXzpNXAkCI9atXfeRQ/edit?usp=sharing" target="_blank"><span>Download slides here.</span></a></p>
+<p><span>This advanced Unreal Engine 5 (UE5) lesson guides students through the creation of an intricate game system, encompassing enemy damage mechanisms, visual effects, player interactions, level management, UI/UX elements, and integrating core gameplay functionalities. Participants will learn to develop a robust enemy damage system, implement dynamic materials and player detection techniques, design UI elements like health bars and gameplay HUDs, manage level streaming and player spawning, and create a complete game loop including a pause menu. By the end of this lesson, students will have the skills to construct a fully functional game demo in UE5, showcasing an integrated system of gameplay mechanics.</span></p>
+<p><span style="font-size: 14pt;"><strong>Lessons</strong></span></p>
+<p><a class="ig-title title item_link" title="Assemble the Game Overview" href="https://vertexschool.instructure.com/courses/462/modules/items/24307">Assemble the Game Overview</a></p>
+<p><a title="Cause Damage to the Enemy" href="https://vertexschool.instructure.com/courses/462/pages/cause-damage-to-the-enemy" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/462/pages/cause-damage-to-the-enemy" data-api-returntype="Page"><span>Cause Damage to the Enemy</span></a></p>
+<p><a title="Dissolve the Enemy" href="https://vertexschool.instructure.com/courses/462/pages/dissolve-the-enemy" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/462/pages/dissolve-the-enemy" data-api-returntype="Page"><span>Dissolve the Enemy</span></a></p>
+<p><span><a class="ig-title title item_link" title="Enemy Detects Player" href="https://vertexschool.instructure.com/courses/462/modules/items/24311">Enemy Detects Player</a></span></p>
+<p><span><a class="ig-title title item_link" title="Precise Melee Attacks" href="https://vertexschool.instructure.com/courses/462/modules/items/24312">Precise Melee Attacks</a></span></p>
+<p><span><a class="ig-title title item_link" title="Enemy Health Bar" href="https://vertexschool.instructure.com/courses/462/modules/items/24313">Enemy Health Bar</a></span></p>
+<p><span><a class="ig-title title item_link" title="Intro to Streaming Levels" href="https://vertexschool.instructure.com/courses/462/modules/items/24314">Intro to Streaming Levels</a></span></p>
+<p><span><a class="ig-title title item_link" title="Start Menu and Load Screen" href="https://vertexschool.instructure.com/courses/462/modules/items/24315">Start Menu and Load Screen</a></span></p>
+<p><span><a class="ig-title title item_link" title="Level Streaming Wrap Up" href="https://vertexschool.instructure.com/courses/462/modules/items/24317">Level Streaming Wrap Up</a></span></p>
+<p><span><a class="ig-title title item_link" title="Player Spawning" href="https://vertexschool.instructure.com/courses/462/modules/items/24318">Player Spawning</a></span></p>
+<p><span><a class="ig-title title item_link" title="Enemy Navigation and Spawning" href="https://vertexschool.instructure.com/courses/462/modules/items/24320">Enemy Navigation and Spawning</a></span></p>
+<p><span><a class="ig-title title item_link" title="AI Spawning and Spawnable AI" href="https://vertexschool.instructure.com/courses/462/modules/items/24321">AI Spawning and Spawnable AI</a></span></p>
+<p><span><a class="ig-title title item_link" title="Player Stats and Saving" href="https://vertexschool.instructure.com/courses/462/modules/items/24322">Player Stats and Saving</a></span></p>
+<p><span><a class="ig-title title item_link" title="Create Player HUD" href="https://vertexschool.instructure.com/courses/462/modules/items/24323">Create Player HUD</a></span></p>
+<p><span><a class="ig-title title item_link" title="Integrate and Iterate Weapons" href="https://vertexschool.instructure.com/courses/462/modules/items/24324">Integrate and Iterate Weapons</a></span></p>
+<p><span><a class="ig-title title item_link" title="Pause Menu" href="https://vertexschool.instructure.com/courses/462/modules/items/24325">Pause Menu</a></span></p>
+<p><span><a class="ig-title title item_link" title="Complete Game Loop" href="https://vertexschool.instructure.com/courses/462/modules/items/24326">Complete Game Loop</a></span></p>
+<p><a title="Wrap Up" href="https://vertexschool.instructure.com/courses/462/pages/wrap-up" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/462/pages/wrap-up" data-api-returntype="Page"><span>Wrap Up</span></a></p>
+<p><span style="font-size: 14pt;"><strong>Assignment</strong></span></p>
+<p>Utilize the skills and techniques learned from the lesson on building comprehensive game systems in Unreal Engine 5 to create a game prototype. This prototype should feature a robust enemy damage system, dynamic visual effects, precise player interactions, seamless level streaming, and integrated gameplay mechanics, including a fully functional game loop with UI/UX elements like a gameplay HUD and pause menu.</p>
+<ul style="list-style-type: disc;">
+<li><a title="Assignment 11: Game Wrapper &amp; Configurator" href="https://vertexschool.instructure.com/courses/462/assignments/3199" data-course-type="assignments" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/462/assignments/3199" data-api-returntype="Assignment">Assignment</a></li>
+</ul>
