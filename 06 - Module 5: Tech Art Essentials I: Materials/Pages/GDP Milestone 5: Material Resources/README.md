@@ -1,0 +1,14 @@
+# GDP Milestone 5: Material Resources
+
+<p>The ability to create interesting and performant materials is an essential component of a technical artist's toolbox.&nbsp;</p>
+<p>This week we will cover some of the essential nodes in the material editor that help technical artists perform their role.&nbsp;</p>
+<p>These nodes are as follows:</p>
+<ol>
+<li aria-level="2"><span><strong>Dot Product</strong> - </span><span>Dot product is used to check how similar two vectors are. For example, if the player is looking at a point. Dot product returns the product of the magnitude of two vectors and the cosine of the angle between them. Dot product can be used to project the scalar length of one vector to another. A practical example is that you can use this node to see if a player is looking at an object or button on the wall.<br><br></span></li>
+<li aria-level="2"><span><strong>Sine and Cosine</strong> - Sine and Cosine are useful for getting steady waves. A practical example is creating a material that pulses between two different states like when a surface has a pulsing glow.&nbsp;<br><br></span></li>
+<li aria-level="2"><span><strong>World Space Normals</strong> - World Space Normals can find the normal direction (ex. the Z direction) of a surface. A practical example for using this node is to blend snow caps on an object.<br><br></span></li>
+<li aria-level="2"><span><strong>Positions and Vectors</strong> - Positions and Vectors are nodes that relate the colors Red, Green and Blue (RGB) to vectors X, Y and Z (XYZ) these nodes can be used for a variety of operations including Masks, Normalizing values, converting Transforms. More information can be found <a class="inline_disabled" href="https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/Materials/ExpressionReference/VectorOps/" target="_blank">here</a>.&nbsp;<br><br></span></li>
+<li aria-level="2"><span><strong>Distance Fields</strong> - Distance fields are used to calculate a distance from one object to another using a shader calculation. These can be used to adjust the material parameters of an object based on how close or far the object is to another object in a scene. A practical example would be to create ripples in a water shader when an object intersects with water.<br><br></span></li>
+<li aria-level="2"><span><strong>Tri-Planar Materials</strong> - Tri-Planar Materials can be used to project a texture based on an objects position in world space. A practical example would be to have moss projected on one side of an object.&nbsp;<br><br></span></li>
+<li aria-level="2"><span><strong>Creating a Water Shader with ripples</strong> - project/demo.<br><br></span></li>
+</ol>
